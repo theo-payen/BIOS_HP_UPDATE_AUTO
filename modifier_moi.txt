@@ -1,0 +1,8 @@
+﻿newpassword:
+[newpasswordBIOS]
+oldpassword:
+[oldpasswordBIOS]
+old2password:
+[old2passwordBIOS]
+localpassword:
+[passwordlocalasmin]
