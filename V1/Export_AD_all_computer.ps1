@@ -1,0 +1,1 @@
+Get-ADComputer -filter 'name -notlike "S*"'-Properties Name | select-object Name | Export-Csv -Path export_AD_PC.csv -notypeinformation
